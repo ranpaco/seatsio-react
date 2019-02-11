@@ -1,7 +1,7 @@
 {
   "name": "@seatsio/seatsio-react",
   "version": "5.0.0",
-  "main": "build/index.js",
+  "main": "src/main/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/seatsio/seatsio-react"
@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "files": [
-    "build/"
+    "src/"
   ],
   "peerDependencies": {
     "react": "^16.0.0"
